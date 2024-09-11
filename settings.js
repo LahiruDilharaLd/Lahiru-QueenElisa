@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 module.exports = {
-  SESSION_ID: '',
+  SESSION_ID: 'QUEENELISA;;;==wY4YjcfJzZoRGbNpmYVV0UGBDUtgEStMXWGZUQ3dERGdDdHdmMyQHRmhjcjQ0SZFTMxMmSpwd=90077885749',
   ALIVE_REACT: '👋',
   ALIVE_MESSAGE: `*Hello @name [ And @gname @members Number of Members ] I am Alive Now !*
 
@@ -23,35 +23,35 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   PREFIX: '.$&',
   LANGUAGE: 'EN',
   PORT: 3000,
-  BOT_NAME: '𝐐𝐔𝐄𝐄𝐍 𝐄𝐋𝐈𝐒𝐀',
-  OWNER_NAME: 'ᴍ ʀ  ɴ ɪ ᴍ ᴀ',
-  OWNER_NUMBER: '94715166712',
-  SUDO: '94715166712',
+  BOT_NAME: 'Edith',
+  OWNER_NAME: 'ᴍ ʀ  Lahiru-Dilhara',
+  OWNER_NUMBER: '94758877009',
+  SUDO: '94758877009',
   WORK_TYPE: 'public',
   WORK_MODE: 'group',
   TIME_ZONE: 'Asia/Colombo',
-  CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴍᴅ',
-  STICKER_AUTHOR: 'Qᴜᴇᴇɴ ᴇʟɪꜱᴀ',
-  STICKER_PACK: 'ᴍʀ ɴɪᴍᴀ ᴏꜰᴄ',
+  CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Edith',
+  STICKER_AUTHOR: 'Edith',
+  STICKER_PACK: 'ᴍʀ Lahiru ᴏꜰᴄ',
   REMOVE_BG_APIKEY: '',
   MAXIMUM_FILESIZE: 90,
   OWNER_R_EMOJI: '👽',
   ALIVE_AS_GIF: true,
-  AUTO_VOICE: false,
-  INBOX_BLOCK: false,
+  AUTO_VOICE: true,
+  INBOX_BLOCK: true,
   OWNER_REACT: true,
   AUTO_REACT: true,
   ONLY_PM_GROUP_MSG_SEND: false,
   AUTO_SEEN_STATUS: true,
   BOT_OFFLINE: false,
-  READ_MESSAGE: false,
+  READ_MESSAGE: true,
   ANTI_MSG_SPAM: false,
   ANTI_BAD_WORD: false,
   ANTI_VIEW_ONES: true,
   ANTI_DELETE: true,
   BANED_USER_MSG_SEND: false,
   BLOCK_CMD_MSG_SEND: false,
-  INBOX_BLOCK_MSG_SEND: false,
+  INBOX_BLOCK_MSG_SEND: true,
   CMD_CORRECT: true,
   ANTI_CHANNEL_FORWARD: false,
   ANTI_BOT: false,
@@ -70,7 +70,7 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
       '❌ My owner has activated auto inbox blocking. So you will be auto blocked after 8 seconds'
   },
   BOT_RULES:
-    "*⚖️ 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 𝙱𝙾𝚃 𝚁𝚄𝙻𝙴𝚂 ⚖️*\n\n☫ Don't spam messages.\n☫ Don't add groups without asking owner.\n"
+    "*⚖️ Edith ⚖️*\n\n☫ Don't spam messages.\n☫ Don't add groups without asking owner.\n"
 }
 
 let file = require.resolve(__filename)
